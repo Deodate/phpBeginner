@@ -5,7 +5,6 @@
 		in below example i am going to store variables to be used in another lessons see bellow how i create variable
 	 */
 	$projectname= "phpBeginner";//this is a string variable it is a tring because it has quotes;
-	$projectCtredits =25; //this is a integer variable because there is no quotes on it
 	$projectInstructor="Muragijimana Richard";
 	$InstructorEmail="strimup@gmail.com";
 	$instructorGithubUrl="github.com/richard457";
